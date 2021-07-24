@@ -6,7 +6,7 @@ Rest API for managing beer stock developed with:
 * Spring JPA
 * H2
 
-Tested with
+Tested with:
 * JUnit
 * Mockito
 
